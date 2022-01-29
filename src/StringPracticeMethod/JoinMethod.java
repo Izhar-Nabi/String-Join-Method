@@ -13,7 +13,6 @@ public class JoinMethod {
         System.out.println(Name2+10+36);
         System.out.println(10+36+s2);
         System.out.println(Name+10+(-24)); // here we can't write in neg sign form it throw a error... like (Name+10-24) this not possible..
-        System.out.println(ss+10/10); // here prefer the operation...(Division first then multiplication but substraction isn't possible
-
+        System.out.println(ss+10/10); // here prefer the operation...(Division first then multiplication but substraction isn't possible.
     }
 }
